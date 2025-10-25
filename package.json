@@ -3,6 +3,10 @@
   "displayName": "syntaxes/pseudocode.tmLanguage.json",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TFerreira25/pseudocode-tmlanguage.git"
+  },
   "engines": {
     "vscode": "^1.105.0"
   },
