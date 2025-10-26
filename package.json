@@ -1,7 +1,8 @@
 {
   "name": "syntaxes-pseudocode-tmlanguage-json",
-  "displayName": "syntaxes/pseudocode.tmLanguage.json",
-  "description": "",
+  "publisher": "TFerreira25",
+  "displayName": "PseudoRunner - Pseudocode Grammar",
+  "description": "TextMate grammar for .pseudo files used by the PseudoRunner interpreter. Adds syntax highlighting for pseudocode (keywords, comments, strings, numbers, operators, arrays and functions).",
   "version": "0.0.1",
   "repository": {
     "type": "git",
